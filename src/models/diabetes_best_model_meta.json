@@ -1,0 +1,16 @@
+{
+  "winner_model": "RandomForest",
+  "random_state": 42,
+  "saved_at_utc": "2026-01-18T03:04:35.145034Z",
+  "features": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "notes": "Best model chosen by accuracy; tie-break by recall_1."
+}
